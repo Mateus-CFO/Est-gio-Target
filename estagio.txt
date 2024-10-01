@@ -1,0 +1,20 @@
+Questão 1
+
+INDICE 0 - K = 1 / SOMA = 1
+INDICE 1 - K = 2 / SOMA = 3
+INDICE 2 - K = 3 / SOMA = 6
+INDICE 3 - K = 4 / SOMA = 10
+INDICE 4 - K = 5 / SOMA = 15
+INDICE 5 - K = 6 / SOMA = 21
+INDICE 6 - K = 7 / SOMA = 28
+INDICE 7 - K = 8 / SOMA = 36
+INDICE 8 - K = 9 / SOMA = 45
+INDICE 9 - K = 10 / SOMA = 55
+INDICE 10 - K = 11 / SOMA = 66
+INDICE 11 - K = 12 / SOMA = 78
+INDICE 12 - K = 13 / SOMA = 91
+
+
+
+
+
