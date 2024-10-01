@@ -1,4 +1,4 @@
-Questão 1
+Questao 1
 
 INDICE 0 - K = 1 / SOMA = 1
 INDICE 1 - K = 2 / SOMA = 3
@@ -14,6 +14,7 @@ INDICE 10 - K = 11 / SOMA = 66
 INDICE 11 - K = 12 / SOMA = 78
 INDICE 12 - K = 13 / SOMA = 91
 
+Questao 2
 
 
 
